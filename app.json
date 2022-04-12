@@ -1,0 +1,54 @@
+{
+	"name": "ＡＬＩＥＮ ＡＬＦＡ",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/Alien-Alfa/ＡＬＩＥＮ ＡＬＦＡ",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"]
+	"env": { 
+    "OWNER_NUMBER": {
+            "description": "Pleas enter Number Of the Owner.",
+            "required": true,
+            "value": "447405935255"
+        }, 
+	"S_PACK": {
+            "description": "Costom Welcome message.",
+            "required": true,
+            "value": "Hey Buddy"
+        }, 
+	"S_AUTHOR": {
+            "description": "Goodbye Message.",
+            "required": true,
+            "value": "Anyways See you Later"
+        }, 
+     "PREMIUM": {
+            "description": "Pleas enter your Name.",
+            "required": true,
+        "value": "Alien Alfa"
+        }, 
+    "ZENS_API": {
+            "description": "Public or Private(true = Private, False = Public).",
+            "required": false,
+                "value": "false"
+        }
+	},
+	"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
