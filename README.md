@@ -68,7 +68,6 @@ Scan The Code in repl.it then copyand past the session in session.alfa.json file
 
 <a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/WhatsAppBot-MD"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
-
  
 ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
 
@@ -79,6 +78,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/Alien-alfa/WhatsAppBot-MD
 cd WhatsAppBot-MD
+rm -rf session.alfa.json
 npm install
 ```
 
