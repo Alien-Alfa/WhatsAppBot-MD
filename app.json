@@ -23,7 +23,7 @@
         }, 
      "PREMIUM": {
             "description": "Premium user number",
-            "required": true
+            "required": false
         }, 
     "ZENS_API": {
             "description": "Public or Private(true = Private, False = Public).",
