@@ -69,11 +69,21 @@ Scan The Code in repl.it then copyand past the session in session.alfa.json file
   
   <br><br>
   # `Deploy In Heroku`
+<!--
 
 <a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/WhatsAppBot-MD"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
- 
-## ⚠️ FOR TERMUX/UBUNTU/SSH USER
+ -->
+  
+  ### ⚠️ Deploy With New Session? <br>
+Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
+  
+Now copy this url and change GITHUBID with your github username and click GO <br>.
+
+  ```https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD```
+  <br> <br>
+  
+  ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
 apt update && apt upgrade
