@@ -1,9 +1,10 @@
 {
-	"name": "ＡＬＩＥＮ ＡＬＦＡ",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/Alien-Alfa/ＡＬＩＥＮ ＡＬＦＡ",
-	"logo": "https://node-js-sample.herokuapp.com/node.png",
-	"keywords": ["multi-device"]
+	"name": "ＡＬＩＥＮ ＡＬＦＡ－ＭＤ",
+	"description": "Simple WhatsApp MD Bot Project",
+	"repository": "https://github.com/Alien-alfa/WhatsAppBot-MD",
+	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
+	"keywords": ["multi-device"],
+	
 	"env": { 
     "OWNER_NUMBER": {
             "description": "Pleas enter Number Of the Owner.",
@@ -11,26 +12,25 @@
             "value": "447405935255"
         }, 
 	"S_PACK": {
-            "description": "Costom Welcome message.",
+            "description": "Sticker Pack Name",
             "required": true,
-            "value": "Hey Buddy"
+            "value": "Alien"
         }, 
 	"S_AUTHOR": {
-            "description": "Goodbye Message.",
+            "description": "Sticker author name.",
             "required": true,
-            "value": "Anyways See you Later"
+            "value": "Alfa"
         }, 
      "PREMIUM": {
-            "description": "Pleas enter your Name.",
-            "required": true,
-        "value": "Alien Alfa"
+            "description": "Premium user number",
+            "required": true
         }, 
     "ZENS_API": {
             "description": "Public or Private(true = Private, False = Public).",
-            "required": false,
-                "value": "false"
+            "required": false
         }
 	},
+	
 	"buildpacks": [
     {
       "url": "heroku/nodejs"
