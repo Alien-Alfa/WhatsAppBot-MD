@@ -25,7 +25,7 @@
   <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
 </p>
 
-<br><br><br><br>
+<br><br>
 
 
 
@@ -35,7 +35,7 @@
 <a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
-<br><br><br><br><br>
+<br><br>
 <div align="center">
   
 # `❗❗FORK THIS BEFORE PROCEEDING`
