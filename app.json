@@ -1,32 +1,73 @@
 {
-	"name": "ＡＬＩＥＮ ＡＬＦＡ－ＭＤ",
-	"description": "Simple WhatsApp MD Bot Project",
-	"repository": "https://github.com/Alien-alfa/WhatsAppBot-MD",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device"],
+	"name": "ＡＬＩＥＮ ＡＬＦＡ",
+	"description": "Fully Costamisable BOT By ＡＬＩＥＮ ＡＬＦＡ",
+	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
 	
 	"env": { 
     "OWNER_NUMBER": {
             "description": "Pleas enter Number Of the Owner.",
-            "required": true,
+            "required": false,
             "value": "447405935255"
         }, 
 	"S_PACK": {
-            "description": "Sticker Pack Name",
-            "required": true,
+            "description": "Sticker Pack Name (leave it if you Wish to use the default)",
+            "required": false,
             "value": "Alien"
         }, 
 	"S_AUTHOR": {
-            "description": "Sticker author name.",
-            "required": true,
+            "description": "Sticker author name. (leave it if you Wish to use the default)",
+            "required": false,
             "value": "Alfa"
         }, 
      "PREMIUM": {
-            "description": "Premium user number",
+            "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false
-        }, 
+        },
+    "LISTICON": {
+            "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "WATERMARK": {
+            "description": "watermark for the bot (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "BOTNAME": {
+            "description": "Name of The BOT (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "ICON": {
+            "description": "Icon to appear in menu (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "MAIL": {
+            "description": "Premium user number (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "YOUTUBE": {
+            "description": "Youtube Channel Link (leave it if you dont have one)",
+            "required": false
+        },
+    "GITHUB": {
+            "description": "Your Github Account URL (leave it if you dont have one)",
+            "required": false
+        },
+    "INSTAGRAM": {
+            "description": "Your Instagram Id URL (leave it if you dont have one)",
+            "required": false
+        },
+    "NAME": {
+            "description": "Owner Name (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "FOOTER": {
+            "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
+            "required": false
+        },
+     
     "ZENS_API": {
-            "description": "Public or Private(true = Private, False = Public).",
+            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false
         }
 	},
