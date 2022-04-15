@@ -1,7 +1,8 @@
+
 {
 	"name": "ＡＬＩＥＮ ＡＬＦＡ",
 	"description": "Fully Costamisable BOT By ＡＬＩＥＮ ＡＬＦＡ",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD                                    All of this is customisable options you don t really have to do it.                                            Even if you skip all these fields the board will deploy and work as normal.",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
 	
@@ -64,6 +65,50 @@
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false
+        },
+    "IMAGE": {
+            "description": "Main Image For The Bot (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "IMAGE2": {
+            "description": "Image For The Bot (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "BUTTONURL_LINK1": {
+            "description": "URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "BUTTONURL_LINK2": {
+            "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
+            "required": false
+        },
+    "BUTTONURL_OPTION1": {
+            "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
+            "required": false
+        },
+    "BUTTONURL_OPTION2": {
+            "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
+            "required": false
+        },
+    "LIST_HEAD": {
+            "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "${greetings} ${pushname} \n\nꜱᴘᴇᴇᴅ   : ${latensi.toFixed(4)} ᴍꜱ\nʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}\n\n"
+        },
+    "LIST_MESSAGE": {
+            "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ʟɪꜱᴛ ᴍᴇɴᴜ"
+        },
+    "MENU_HEAD": {
+            "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "${greetings} ${pushname} \n\nꜱᴘᴇᴇᴅ   : ${latensi.toFixed(4)} ᴍꜱ\nʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}\n\n"
+        },
+    "MENU_MESSAGE": {
+            "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
         },
      
     "ZENS_API": {
