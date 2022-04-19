@@ -93,8 +93,7 @@
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "${greetings} ${pushname} \n\nꜱᴘᴇᴇᴅ   : ${latensi.toFixed(4)} ᴍꜱ\nʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}\n\n"
+            "required": false
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -103,13 +102,20 @@
         },
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "${greetings} ${pushname} \n\nꜱᴘᴇᴇᴅ   : ${latensi.toFixed(4)} ᴍꜱ\nʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}\n\n"
+            "required": false
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
             "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
+        },
+   "APP_NAME": {
+            "description": "Enter The App Name As Same As above",
+            "required": false
+        },
+   "HEROKU_API": {
+            "description": "Enter The Heroku API Key From Settings",
+            "required": false
         },
      
     "ZENS_API": {
