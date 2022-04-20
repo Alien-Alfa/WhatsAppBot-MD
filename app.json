@@ -25,75 +25,93 @@
         }, 
      "PREMIUM": {
             "description": "Premium user number (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "447405935255"
         },
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "✩"
         },
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "ＡＬＩＥＮ ＡＬＦＡ"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "ＡＬＩＥＮ ＡＬＦＡ"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "✩"
         },
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "AlienAlfa.YT@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
-            "required": false
+            "required": false,
+            "value": "https://youtube.com/c/alienalfa"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
-            "required": false
+            "required": false,
+            "value": "https://github.com/Alien-alfa/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
-            "required": false
+            "required": false,
+            "value": "https://www.instagram.com/alienalfa/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "ＡＬＩＥＮ ＡＬＦＡ"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
         },
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
         },
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "https://www.instagram.com/alienalfa/"
         },
     "BUTTONURL_LINK2": {
             "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "https://youtube.com/c/alienalfa"
         },
     "BUTTONURL_OPTION1": {
             "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
-            "required": false
+            "required": false,
+            "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
         },
     "BUTTONURL_OPTION2": {
             "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
-            "required": false
+            "required": false,
+            "value": "ʏᴏᴜᴛᴜʙᴇ"
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "--"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -102,25 +120,19 @@
         },
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "--"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
             "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
         },
-   "APP_NAME": {
-            "description": "Enter The App Name As Same As above",
-            "required": false
-        },
-   "HEROKU_API": {
-            "description": "Enter The Heroku API Key From Settings",
-            "required": false
-        },
      
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
-            "required": false
+            "required": false,
+            "value": "Alfa"
         }
 	},
 	
