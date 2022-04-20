@@ -8,7 +8,7 @@
 	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
 	
 	"env": { 
-    "OWNER_NUMBER": {
+   	 "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
             "value": "447405935255"
