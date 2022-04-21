@@ -8,7 +8,7 @@
 	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
 	
 	"env": { 
-   	 "OWNER": {
+    "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
             "value": "447405935255"
@@ -22,6 +22,14 @@
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
             "value": "Alfa"
+        }, 
+	"ALIVE_MESS": {
+            "description": "Set Alive Message. (leave it if you Wish to use the default)",
+            "required": false
+        }, 
+	"OWNER_MESS": {
+            "description": "Set Owner message. (leave it if you Wish to use the default)",
+            "required": false
         }, 
      "PREMIUM": {
             "description": "Premium user number (leave it if you Wish to use the default)",
