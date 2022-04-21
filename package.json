@@ -42,6 +42,7 @@
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.1",
     "node-webpmux": "^3.1.0",
+    "simple-git": "^2.37.0",
     "os": "^0.1.2",
     "path": "^0.12.7",
     "perf_hooks": "0.0.1",
