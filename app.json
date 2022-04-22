@@ -23,6 +23,26 @@
             "required": false,
             "value": "Alfa"
         }, 
+    "SUDO": {
+            "description": "Add superuser to this bot",
+            "required": true
+        },
+    "NORMAL": {
+            "description": "Use Fancy Templayes Rather Than Normal Messages",
+            "required": false
+        },
+    "ADVER_URL": {
+            "description": "Adplay Target Url",
+            "required": false
+        },
+    "ADVER": {
+            "description": "Adplay Text",
+            "required": false
+        },
+    "ALIVE_IMAGE": {
+            "description": "Set Alive Message Image",
+            "required": false
+        },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
             "required": false
