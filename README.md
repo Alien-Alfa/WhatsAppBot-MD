@@ -3,11 +3,11 @@
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Errored-red.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-working!-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-7:00pm-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-Tomorrowm-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 <p align="center">
