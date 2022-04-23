@@ -5,6 +5,10 @@
 <p align="left">
   <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Errored-red.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
+<br>
+<p align="left">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-7:00pm-green.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
