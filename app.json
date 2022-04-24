@@ -18,6 +18,10 @@
             "required": false,
             "value": "Alien"
         }, 
+	"GREETINGS": {
+            "description": "Activate Welcome and Leave Messages (type 'True')",
+            "required": false
+        }, 
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
