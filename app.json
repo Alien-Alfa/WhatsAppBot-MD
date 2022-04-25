@@ -18,10 +18,11 @@
             "required": false,
             "value": "Alien"
         }, 
-	"GREETINGS": {
-            "description": "Activate Welcome and Leave Messages (type 'True')",
-            "required": false
-        }, 
+	"WORKTYPE": {
+            "description": "change the Work Type (public or private)",
+            "required": false,
+            "value": "self"
+        },
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
@@ -55,11 +56,6 @@
             "description": "Set Owner message. (leave it if you Wish to use the default)",
             "required": false
         }, 
-     "PREMIUM": {
-            "description": "Premium user number (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "447405935255"
-        },
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
             "required": false,
