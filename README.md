@@ -26,10 +26,10 @@
 <p align="left">
   <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-working%20&%20bugs!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
-<br><!--
+<br>
 <p align="left">
   <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-Tomorrowm-green.svg?style=for-the-badge&logo=xcode" /></a>
-</p>-->
+</p>
 
 
 
