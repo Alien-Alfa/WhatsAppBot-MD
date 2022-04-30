@@ -1,74 +1,57 @@
-{
-  "name": "AlienAlfaBot-MD",
-  "version": "1.0.3",
-  "description": "Beta Test By an Alien",
-  "main": "index.js",
-  "type": "commonjs",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [
-    "termux",
-    "whatsapp",
-    "2021",
-    "wabase-md"
-  ],
-  "author": "Alien-Alfa.",
-  "license": "MIT",
-  "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
-    "@adiwajshing/baileys": "^4.1.0",
-    "@adiwajshing/keyed-db": "^0.2.4",
-    "awesome-phonenumber": "^2.64.0",
-    "axios": "^0.24.0",
-    "chalk": "^4.1.2",
-    "cheerio": "^1.0.0-rc.10",
-    "child_process": "^1.0.2",
-    "crypto": "^1.0.1",
-    "ffmpeg": "^0.0.4",
-    "file-type": "^16.5.3",
-    "fluent-ffmpeg": "^2.1.2",
-    "fs": "0.0.1-security",
-    "g-i-s": "^2.1.6",
-    "google-it": "^1.6.2",
-    "google-translate-token": "^1.0.0",
-    "got": "^11.8.3",
-    "human-readable": "^0.2.1",
-    "jimp": "^0.16.1",
-    "jsdom": "^16.4.0",
-    "lowdb": "^2.1.0",
-    "moment-timezone": "^0.5.34",
-    "mongoose": "^6.2.1",
-    "node-cron": "^3.0.0",
-    "node-fetch": "^2.6.1",
-    "node-webpmux": "^3.1.0",
-    "simple-git": "^2.37.0",
-    "os": "^0.1.2",
-    "path": "^0.12.7",
-    "perf_hooks": "0.0.1",
-    "pino": "^7.0.5",
-    "heroku-client": "^3.1.0",
-    "qrcode-terminal": "^0.12.0",
-    "remove.bg": "^1.3.0",
-    "simple-git": "^2.37.0",
-    "request": "^2.88.2",
-    "scrape-primbon": "^1.1.0",
-    "translate-google-api": "^1.0.4",
-    "translatte": "^3.0.1",
-    "util": "^0.12.4",
-    "yargs": "^17.2.1",
-    "yt-search": "^2.10.2"
-  },
-  "directories": {
-    "lib": "lib",
-    "src": "src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Alien-Alfa/WhatsAppBot-MD.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Alien-Alfa/WhatsAppBot-MD/issues"
-  },
-  "homepage": "https://github.com/Alien-Alfa/WhatsAppBot-MD#readme"
-}
+"creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "oOMzCILoKJa/ehg7hxcYSiAEjC/shXj2DXfnMEGSpkk="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "8s7Ph7dUkprHNBkItHrKaw55oSYIlO1eKM6JEYih8TU="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "MNmGRsY2I9ulOYCyvrKOkga7aeoFsfLTLPnWcW5ryko="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "DOM1QsJFqZVwSDVUQMATSM/v7dussybAv0UBgYuXEVk="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "eBRaF/LsWJly5BaQZ4f8ZJTfPavSauI0Dx+eulNZqHA="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "TJRw+R4kTn6xLj7rG5837CAVw0Pcxsl8u75JXL7Cq3Y="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "2Tp3UAKd/B7yHar8YqBBu91NXfnY24gCGbHhWV9g/esslVWIEIP2K9tsiRRVxnN7qh75R/9S70BFb7T8+jSKBA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 55,
+    "advSecretKey": "7g2EYdvzlZd4AAURTdifiROCw2bPzlvO8BmCWf0QNfg=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CNaxsIAEEPa4spMGGAE=",
+      "accountSignatureKey": "W+7BUlfNYI/DA8YDr2rjz1yYlwTLVUTqeh1MlcFbQUY=",
+      "accountSignature": "vQNUoyMsb3puP8yCzx1GF/SCkR28BKyRXi/KtPy6Krd/Pp6cc4n8JDG9g5NLl1OLdy3+4+tTd0aHWNZvu9hgAg==",
+      "deviceSignature": "PWjy/lzR/WYIOxgpCLeDYWOMsAks6zUfVgI2n1DKRxJOvHTJIEiqwAejG16WGkjMQbdups8ijvJWmda/O25qCA=="
+    },
+    "me": {
+      "id": "919496104238:5@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "MANU"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
