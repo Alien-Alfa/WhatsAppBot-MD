@@ -156,6 +156,14 @@
             "required": false,
             "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
         },
+    "APP_NAME": {
+            "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
+            "required": false
+        },
+    "HEROKU_API": {
+            "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
+            "required": false
+        },
      
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
