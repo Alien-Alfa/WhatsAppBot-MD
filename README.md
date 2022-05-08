@@ -107,7 +107,7 @@ Scan The Code in repl.it then copyand past the session in session.alfa.json file
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1/edit"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   
@@ -253,10 +253,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## ⚠️ Developers
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |[![Dika Ardnt.](https://github.com/DikaArdnt.png?size=200)](https://quiec.tech) |
-|----|----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) | [꧁𓊈𒆜ＤＩＫＡ ＡＲＤＮＴ𒆜𓊉꧂](https://github.com/DikaArdnt) | 
-|  𒆜Bug Fixes, Modules, updates𒆜 |   𒆜Author, Base, Update as MD𒆜 |
+| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |
+|----|
+| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
+|  𒆜Bug Fixes, Modules, updates𒆜 |
   
   </div>
 
