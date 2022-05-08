@@ -105,11 +105,11 @@ Scan The Code in repl.it then copyand past the session in session.alfa.json file
   
   <br><br>
   # `Deploy In Heroku`
-<!--
 
-<a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/WhatsAppBot-MD"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
- -->
+<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1/edit"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+
+
   
 
 
