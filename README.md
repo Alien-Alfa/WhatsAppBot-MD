@@ -95,11 +95,11 @@
 ```
 ❗You can use the Session ID provided when you sacn the QR
  
-  OR
+OR
   
-❗ You can upload the given session.alfa.json file to github itself  
+❗ You can upload the given session.alfa.json file to github itself
   
-  (The sesond method works well compared to the first one)
+(The sesond method works well compared to the first one)
 
 ``` 
   
