@@ -93,14 +93,14 @@
   ### ⚠️ Session Change! 
   
 ```
-❗Before DEploying It In Heroku Change The Session.alfa.json file! 
+❗You can use the Session ID provided when you sacn the QR
+ 
+  OR
   
-Scan The Code in repl.it then copyand past the session in session.alfa.json file in repo. 
+❗ You can upload the given session.alfa.json file to github itself  
   
-(⚠️Tutorial video will be on my channel soon) 
-  
-❗deploy it only after changing the session.alfa.json
-  
+  (The sesond method works well compared to the first one)
+
 ``` 
   
   <br><br>
