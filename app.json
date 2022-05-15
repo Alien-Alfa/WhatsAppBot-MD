@@ -172,7 +172,7 @@
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false,
-            "value": "Alfa"
+            "value": "sanzychan01"
         }
 	},
 	
