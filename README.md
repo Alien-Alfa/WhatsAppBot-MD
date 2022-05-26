@@ -73,6 +73,7 @@
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
 <a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD.svg?type=shield"/></a>
 </p>
 
 <br><br>
@@ -282,3 +283,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD?ref=badge_large)
