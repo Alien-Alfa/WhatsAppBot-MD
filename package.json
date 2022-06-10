@@ -7,6 +7,14 @@
   "scripts": {
     "start": "node index.js"
   },
+   "nodemonConfig": {
+         "ignore": ["/root/AlienAlfa/*"],
+    "delay": 2500
+  },
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "forever -c 'nodemon --exitcrash' index.js"
+    },
   "keywords": [
     "termux",
     "whatsapp",
