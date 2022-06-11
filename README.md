@@ -155,6 +155,10 @@ $ node .
 ```
   
   <br><br><br><br><br>
+  
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD.svg?type=large"/></a>
+  
+  
   <!--
 # `CHANGE THESE SETTINGS`
 
