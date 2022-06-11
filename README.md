@@ -52,7 +52,11 @@
 
 <p align="center">
 <a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
+
+
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD.svg?type=small"/></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/alien-Alfa"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
