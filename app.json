@@ -134,7 +134,7 @@
     "BUTTONURL_OPTION2": {
             "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
             "required": false,
-            "value": "ʏᴏᴜᴛᴜʙᴇ"
+            "value": "ʏᴏutf"
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
