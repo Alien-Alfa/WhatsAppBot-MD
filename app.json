@@ -89,7 +89,7 @@
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/Nichuvdr3/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
