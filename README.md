@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=WhatsAppBot-MD&label=VIEWS&color=10d9c3&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=WhatsAppBot-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p>
 
