@@ -93,7 +93,7 @@
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://bit.ly/3MnJRjE"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://replit.com/@Alien-Alfa/ALIEN-ALFA-BOT-MD?output%20only=1&lite=1#index.js"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Change Session In Github`
 
