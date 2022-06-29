@@ -32,10 +32,6 @@
             "description": "Add superuser to this bot",
             "required": false
         },
-    "NORMAL": {
-            "description": "Use Fancy Templayes Rather Than Normal Messages",
-            "required": false
-        },
     "ADVER_URL": {
             "description": "Adplay Target Url",
             "required": false
@@ -138,18 +134,15 @@
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "--"
+            "required": false
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "ʟɪꜱᴛ ᴍᴇɴᴜ"
+            "required": false
         },
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "--"
+            "required": false
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
