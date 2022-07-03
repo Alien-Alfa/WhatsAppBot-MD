@@ -6,44 +6,35 @@
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
-	"stack": "container",
+	
 	"env": { 
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "447405935255"
-        }, 
-	"S_PACK": {
-            "description": "Sticker Pack Name (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "Alien"
+            "value": "0,447405935255"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
             "value": "private"
         },
-	"PREFIX": {
-            "description": "change the prefix (set it as False to use any prefix)",
-            "required": true,
-            "value": "false"
-        },
 	"S_AUTHOR": {
-            "description": "Sticker author name. (leave it if you Wish to use the default)",
+            "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alfa"
+            "value": "ＡＬＩＥＮ,ＡＬＦＡ"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
             "required": false
         },
-    "ADVER_URL": {
-            "description": "Adplay Target Url",
+    "NORMAL": {
+            "description": "Use Fancy Templayes Rather Than Normal Messages",
             "required": false
         },
-    "ADVER": {
+    "REPLY_TEXT_LINK": {
             "description": "Adplay Text",
-            "required": false
+            "required": false,
+            "value": "nill,nill"
         },
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
@@ -107,7 +98,7 @@
             "required": false,
             "value": "ＡＬＩＥＮ ＡＬＦＡ"
         },
-    "IMAGE": {
+    "PROFILE_IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
             "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
@@ -117,37 +108,20 @@
             "required": false,
             "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
         },
-    "BUTTONURL_LINK1": {
-            "description": "URL Button Id/Link (leave it if you Wish to use the default)",
+    "URLBUTTON1": {
+            "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "nill,nill"
         },
-    "BUTTONURL_LINK2": {
-            "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
+    "URLBUTTON2": {
+            "description": "Second URL Button Name and link (leave it if you Wish to use the default:YouTube)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
-        },
-    "BUTTONURL_OPTION1": {
-            "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
-            "required": false,
-            "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
-        },
-    "BUTTONURL_OPTION2": {
-            "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
-            "required": false,
-            "value": "ʏᴏᴜᴛᴜʙᴇ"
-        },
-    "LIST_HEAD": {
-            "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
-            "required": false
+            "value": "nill,nill"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
-            "required": false
-        },
-    "MENU_HEAD": {
-            "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
-            "required": false
+            "required": false,
+            "value": "ʟɪꜱᴛ ᴍᴇɴᴜ"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
@@ -170,15 +144,10 @@
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false,
-            "value": "sanzychan01"
+            "value": "Alfa"
         }
 	},
 	
-    "addons": [
-        {
-            "plan": "heroku-postgresql"
-        }
-    ],
     "buildpacks": [
         {
             "url": "heroku-community/apt"
