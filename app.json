@@ -147,12 +147,7 @@
             "value": "Alfa"
         }
 	},
-	
-    "buildpacks": [
-        {
-            "url": "heroku-community/apt"
-        }
-    ],
+
    "formation": {
         "worker": {
             "quantity": 1,
