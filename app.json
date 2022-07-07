@@ -18,35 +18,60 @@
             "required": true,
             "value": "private"
         },
-	"S_AUTHOR": {
+	"AUTOREAD": {
+            "description": "Autoread active or off",
+            "required": false,
+            "value": ">active"
+        },
+	"BETA_FUNCTIONS": {
+            "description": "Experimental Functions and Commands (Remember This Might Crash Your BOT)",
+            "required": false,
+            "value": ">active"
+        },
+	"AUTO_DOWNLOADER": {
+            "description": "Auto Downloader (BETA) Insta and YouTube",
+            "required": true,
+            "value": ">active"
+        },
+	"STICKER_PACK": {
             "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
             "required": false,
             "value": "ＡＬＩＥＮ,ＡＬＦＡ"
         }, 
-    "SUDO": {
-            "description": "Add superuser to this bot",
-            "required": false
+    "URLBUTTON1": {
+            "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
+            "required": false,
+            "value": "nill,nill"
         },
-    "NORMAL": {
-            "description": "Use Fancy Templayes Rather Than Normal Messages",
-            "required": false
+    "URLBUTTON2": {
+            "description": "Second URL Button Name and link (leave it if you Wish to use the default:YouTube)",
+            "required": false,
+            "value": "nill,nill"
         },
     "REPLY_TEXT_LINK": {
             "description": "Adplay Text",
             "required": false,
             "value": "nill,nill"
         },
-    "ALIVE_IMAGE": {
-            "description": "Set Alive Message Image",
-            "required": false
+    "PROFILE_IMAGE": {
+            "description": "Main Image For The Bot (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
         },
-	"ALIVE_MESS": {
-            "description": "Set Alive Message. (leave it if you Wish to use the default)",
-            "required": false
-        }, 
-	"OWNER_MESS": {
-            "description": "Set Owner message. (leave it if you Wish to use the default)",
-            "required": false
+    "URL_IMAGE": {
+            "description": "Image For The Adplay (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+        },
+    "GREETING": {
+            "description": "Greeting Message (leave it if you Wish to use the default)",
+            "required": false,
+            "value": "Hey  👋🏻"
+        },
+    "SUDO": {
+            "description": "Add superuser to this bot",
+            "required": false,
+            "value": "0,447405935255"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -98,25 +123,52 @@
             "required": false,
             "value": "ＡＬＩＥＮ ＡＬＦＡ"
         },
-    "PROFILE_IMAGE": {
-            "description": "Main Image For The Bot (leave it if you Wish to use the default)",
+    "HEROKU_APP_NAME": {
+            "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
+            "required": true
+        },
+    "HEROKU_API_KEY": {
+            "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
+            "required": true
+        },
+	"BETA_FUNCTIONS1": {
+            "description": "Experimental Functions and Commands (Remember This Might Crash Your BOT)",
+            "required": false,
+            "value": ">active"
+        },
+	"ANTICALL_MSG": {
+            "description": "Mesage which will sent to the blocked user for calling the bot",
+            "required": false,
+            "value": "default"
+        },
+    "SESSION_ID": {
+            "description": "Add your Session ID here you got from Your Bot",
+            "required": true
+        },
+    "ZENS_API": {
+            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
+            "required": false,
+            "value": "Alfa"
+        },
+	"ALIVE_MESS": {
+            "description": "Set Alive Message. (leave it if you Wish to use the default)",
+            "required": false,
+            "value": 'null'
+        },
+    "ALIVE_IMAGE": {
+            "description": "Set Alive Message Image",
             "required": false,
             "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
         },
-    "IMAGE2": {
-            "description": "Image For The Bot (leave it if you Wish to use the default)",
+    "LITE_MODE": {
+            "description": "Use Fancy Templayes Rather Than Normal Messages",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": ">active"
         },
-    "URLBUTTON1": {
-            "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
+	"OWNER_MESS": {
+            "description": "Set Owner message. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "nill,nill"
-        },
-    "URLBUTTON2": {
-            "description": "Second URL Button Name and link (leave it if you Wish to use the default:YouTube)",
-            "required": false,
-            "value": "nill,nill"
+            "value": "ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -127,27 +179,23 @@
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
             "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
-        },
-    "APP_NAME": {
-            "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
-            "required": true
-        },
-    "HEROKU_API": {
-            "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
-            "required": true
-        },
-    "SESSION_ID": {
-            "description": "Add your Session ID here you got from Your Bot",
-            "required": true
-        },
-     
-    "ZENS_API": {
-            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
-            "required": false,
-            "value": "Alfa"
         }
-	},
-
+},
+	
+	"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
    "formation": {
         "worker": {
             "quantity": 1,
