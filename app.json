@@ -152,8 +152,7 @@
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
-            "required": false,
-            "value": 'null'
+            "required": false
         },
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
