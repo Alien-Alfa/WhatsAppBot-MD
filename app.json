@@ -6,7 +6,7 @@
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","WhatsApp Bot"],
-	
+    	"stack": "container",
 	"env": { 
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
