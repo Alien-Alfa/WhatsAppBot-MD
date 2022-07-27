@@ -66,6 +66,7 @@
     "translatte": "^3.0.1",
     "util": "^0.12.4",
     "yargs": "^17.2.1",
+    "node-gtts": "^2.0.2"
     "yt-search": "^2.10.2"
   },
   "directories": {
