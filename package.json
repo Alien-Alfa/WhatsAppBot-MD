@@ -1,7 +1,7 @@
 {
-  "name": "AlienAlfaBot-MD",
+  "name":"luffy"
   "version": "2.3.0",
-  "description": "Beta Test By an Alien",
+  "description": "Beta Test By an luffy",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -20,7 +20,7 @@
     "2021",
     "wabase-md"
   ],
-  "author": "Alien-Alfa.",
+  "author": "akuma.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
