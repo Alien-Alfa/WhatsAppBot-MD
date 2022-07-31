@@ -1,7 +1,7 @@
 
 {
 	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
+	"description": "Fully Costamisable Bot by, akuma waves.",
 	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
@@ -11,12 +11,12 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "0,447405935255"
+            "value": "96890649089"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
-            "value": "private"
+            "value": "puplic"
         },
 	"AUTOREAD": {
             "description": "Autoread active or off",
@@ -36,32 +36,32 @@
 	"STICKER_PACK": {
             "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ,ＡＬＦＡ"
+            "value": "【𝐀𝐊𝐔𝐌𝐀《𓆩⚜️𓆪》𝗞.𝗚.𝗗 】"
         }, 
     "URLBUTTON1": {
             "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
             "required": false,
-            "value": "nill,nill"
+            "value": "akuma"
         },
     "URLBUTTON2": {
             "description": "Second URL Button Name and link (leave it if you Wish to use the default:YouTube)",
             "required": false,
-            "value": "nill,nill"
+            "value": "akuma"
         },
     "REPLY_TEXT_LINK": {
             "description": "Adplay Text",
             "required": false,
-            "value": "nill,nill"
+            "value": "hii"
         },
     "PROFILE_IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://g.top4top.io/p_2399d7pvs0.jpeg"
         },
     "URL_IMAGE": {
             "description": "Image For The Adplay (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://g.top4top.io/p_2399d7pvs0.jpeg"
         },
     "GREETING": {
             "description": "Greeting Message (leave it if you Wish to use the default)",
@@ -71,7 +71,7 @@
     "SUDO": {
             "description": "Add superuser to this bot",
             "required": false,
-            "value": "0,447405935255"
+            "value": "96890649089"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -81,12 +81,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "akuma"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "akuma"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -96,32 +96,32 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "akumawaves@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/channel/UCr2ooqM0qQ6v1gdWuFouL9Q"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": ""
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://instagram.com/akuma._.a.k.m?igshid=YmMyMTA2M2Y="
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "لوفي"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "AKUMA"
         },
     "HEROKU_APP_NAME": {
             "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
@@ -148,7 +148,7 @@
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false,
-            "value": "Alfa"
+            "value": "akuma"
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
@@ -157,7 +157,7 @@
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://g.top4top.io/p_2399d7pvs0.jpeg"
         },
     "LITE_MODE": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
@@ -167,7 +167,7 @@
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ"
+            "value": "ماني فاضي لك دزها"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
