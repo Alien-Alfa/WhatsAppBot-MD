@@ -93,7 +93,7 @@
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://cutt.ly/AlienAlfa"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://main.dcjewgeqymi56.amplifyapp.com/Railway.html"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Change Session In Github`
 
