@@ -6,7 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start bot.js --cron-restart='0 0 * * *' && pm2 save && pm2 logs"
+    "start": "pm2 start index.js && pm2 save && pm2 logs"
   },
   "nodemonConfig": {
     "ignore": [
