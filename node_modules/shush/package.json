@@ -1,0 +1,36 @@
+{
+  "name": "shush",
+  "version": "1.0.2",
+  "description": "Sugar for silencing JSON comments.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js",
+    "cover": "istanbul cover tape -- test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/totherik/shush.git"
+  },
+  "author": "Erik Toth <totherik@gmail.com>",
+  "contributors": [
+    {
+      "name": "Jonathan Samines"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~4.6.0",
+    "istanbul": "~0.4.5"
+  },
+  "dependencies": {
+    "strip-json-comments": "~2.0.1",
+    "caller": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/totherik/shush/issues"
+  },
+  "homepage": "https://github.com/totherik/shush"
+}

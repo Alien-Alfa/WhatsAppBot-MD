@@ -1,0 +1,77 @@
+{
+  "name": "forever-monitor",
+  "description": "Core forever process monitor",
+  "version": "3.0.3",
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "contributors": [
+    {
+      "name": "Charlie Robbins",
+      "email": "charlie@nodejitsu.com"
+    },
+    {
+      "name": "Fedor Indutny",
+      "email": "fedor.indutny@gmail.com"
+    },
+    {
+      "name": "James Halliday",
+      "email": "mail@substack.net"
+    },
+    {
+      "name": "Bradley Meck",
+      "email": "bradley@nodejitsu.com"
+    },
+    {
+      "name": "Dominic Tarr",
+      "email": "dominic@nodejitsu.com"
+    },
+    {
+      "name": "Maciej Małecki",
+      "email": "maciej@nodejitsu.com"
+    },
+    {
+      "name": "Igor Savin",
+      "email": "kibertoad@gmail.com"
+    }
+  ],
+  "main": "./lib/index.js",
+  "scripts": {
+    "lint": "eslint \"lib/**/*.js\" \"test/**/*.js\" \"examples/**/*.js\"",
+    "test": "vows test/**/*-test.js --dot-matrix -i",
+    "test:ci": "npm run lint && npm run test",
+    "prettier": "prettier --write \"{lib,examples,test}/**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/foreversd/forever-monitor.git"
+  },
+  "keywords": [
+    "fault tolerant",
+    "sysadmin",
+    "tools"
+  ],
+  "dependencies": {
+    "async": "^1.5.2",
+    "chokidar": "^2.1.8",
+    "eventemitter2": "^6.4.3",
+    "minimatch": "^3.0.4",
+    "ps-tree": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-config-prettier": "^6.11.0",
+    "prettier": "^1.19.1",
+    "semver": "5.7.1",
+    "vows": "0.7.0",
+    "yargs": "^3.32.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "lib/*"
+  ],
+  "license": "MIT"
+}

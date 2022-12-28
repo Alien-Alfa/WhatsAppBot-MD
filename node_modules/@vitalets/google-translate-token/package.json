@@ -1,0 +1,61 @@
+{
+  "name": "@vitalets/google-translate-token",
+  "version": "1.2.0",
+  "description": "A package that generates the necessary token to use the Google Translate API for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava --serial",
+    "release": "npm test && npm version $VER && npm publish",
+    "postrelease": "git push --follow-tags --no-verify",
+    "release-patch": "VER=patch npm run release",
+    "release-minor": "VER=minor npm run release"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "xo",
+      "pre-push": "npm test"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalets/google-translate-token.git"
+  },
+  "keywords": [
+    "translate",
+    "translator",
+    "google",
+    "translate",
+    "api",
+    "free",
+    "language",
+    "tk",
+    "token"
+  ],
+  "author": {
+    "name": "Matheus Fernandes",
+    "email": "npm@matheus.top",
+    "url": "http://matheus.top"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitalets/google-translate-token/issues"
+  },
+  "homepage": "https://github.com/vitalets/google-translate-token#readme",
+  "dependencies": {
+    "configstore": "^5.0.1",
+    "got": "^6.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "husky": "^3.0.4",
+    "puppeteer": "^1.11.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "space": 4,
+    "rules": {
+      "xo/no-abusive-eslint-disable": "warn",
+      "no-eval": "warn"
+    }
+  }
+}

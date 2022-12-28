@@ -1,0 +1,39 @@
+{
+  "name": "flatiron",
+  "description": "An elegant blend of convention and configuration for building apps in Node.js and the browser",
+  "version": "0.4.3",
+  "author": "Nodejitsu Inc. <info@nodejitsu.com>",
+  "maintainers": [
+    "indexzero <charlie@nodejitsu.com>",
+    "AvianFlu <avianflu@nodejitsu.com>",
+    "Marak <marak@nodejitsu.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/flatiron/flatiron.git"
+  },
+  "dependencies": {
+    "broadway": "~0.3.2",
+    "optimist": "0.6.0",
+    "prompt": "0.2.14",
+    "director": "1.2.7"
+  },
+  "devDependencies": {
+    "st": "0.1.x",
+    "request": "2.x.x",
+    "resourceful": "0.3.x",
+    "union": "0.4.x",
+    "vows": "0.7.x"
+  },
+  "main": "./lib/flatiron",
+  "bin": {
+    "flatiron": "./bin/flatiron"
+  },
+  "scripts": {
+    "test": "vows --spec"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
+

@@ -1,0 +1,32 @@
+{
+  "name": "cliff",
+  "description": "Your CLI formatting friend.",
+  "version": "0.1.10",
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/flatiron/cliff.git"
+  },
+  "keywords": [
+    "cli",
+    "logging",
+    "tools",
+    "winston"
+  ],
+  "dependencies": {
+    "colors": "~1.0.3",
+    "eyes": "~0.1.8",
+    "winston": "0.8.x"
+  },
+  "devDependencies": {
+    "vows": "0.8.x"
+  },
+  "main": "./lib/cliff",
+  "scripts": {
+    "test": "vows test/*-test.js --spec"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
+
