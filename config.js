@@ -44,4 +44,236 @@
 */
 
 
-                                                                                                                                                                                                                                                                  const _0x190aff=_0x48b8;function _0x48b8(_0x7e1af3,_0x208692){const _0x4a3827=_0x4a38();return _0x48b8=function(_0x48b8a2,_0x462dde){_0x48b8a2=_0x48b8a2-0x1e6;let _0x1d3307=_0x4a3827[_0x48b8a2];return _0x1d3307;},_0x48b8(_0x7e1af3,_0x208692);}(function(_0x3dd0f7,_0x4c0c74){const _0x1e0cef=_0x48b8,_0x19c4d0=_0x3dd0f7();while(!![]){try{const _0x1901f8=parseInt(_0x1e0cef(0x204))/0x1+-parseInt(_0x1e0cef(0x21f))/0x2+parseInt(_0x1e0cef(0x1f4))/0x3+parseInt(_0x1e0cef(0x282))/0x4*(parseInt(_0x1e0cef(0x24f))/0x5)+-parseInt(_0x1e0cef(0x275))/0x6+parseInt(_0x1e0cef(0x1e8))/0x7+parseInt(_0x1e0cef(0x1ee))/0x8*(-parseInt(_0x1e0cef(0x247))/0x9);if(_0x1901f8===_0x4c0c74)break;else _0x19c4d0['push'](_0x19c4d0['shift']());}catch(_0x30309d){_0x19c4d0['push'](_0x19c4d0['shift']());}}}(_0x4a38,0x3d69c));const fs=require('fs'),chalk=require(_0x190aff(0x21a)),apikeyset=process[_0x190aff(0x22b)][_0x190aff(0x232)]===undefined?null:process['env'][_0x190aff(0x232)];var ownernum=process[_0x190aff(0x22b)][_0x190aff(0x251)]===undefined?'':process['env'][_0x190aff(0x251)];global[_0x190aff(0x244)]={'zenz':'https://zenzapis.xyz','devil':'https://api-toxic-devil.herokuapp.com/api'};let apik=[_0x190aff(0x25e),_0x190aff(0x219),_0x190aff(0x217),_0x190aff(0x1fa),_0x190aff(0x22d),_0x190aff(0x24e),_0x190aff(0x21b),_0x190aff(0x281),_0x190aff(0x20b),_0x190aff(0x20c)],api=apik[Math['floor'](Math['random']()*apik[_0x190aff(0x26a)])];global[_0x190aff(0x1f1)]=process['env'][_0x190aff(0x232)]===undefined?null:process[_0x190aff(0x22b)][_0x190aff(0x232)];{global['APIKeys']={'https://zenzapis.xyz':apikeyset};}let worktype=process[_0x190aff(0x22b)][_0x190aff(0x227)]===undefined?'public':process[_0x190aff(0x22b)][_0x190aff(0x227)],workres=worktype[_0x190aff(0x233)]();workres==='public'?global['worktype']=_0x190aff(0x1f7):global[_0x190aff(0x1ed)]='private';let sudo=process['env'][_0x190aff(0x256)]===undefined?_0x190aff(0x253):process[_0x190aff(0x22b)][_0x190aff(0x256)],sudonum=sudo['toString']()[_0x190aff(0x1fd)](',');global[_0x190aff(0x280)]=sudonum,global[_0x190aff(0x24a)]=sudonum;let stickker=process[_0x190aff(0x22b)]['STICKER_PACK']===undefined?_0x190aff(0x213):process[_0x190aff(0x22b)][_0x190aff(0x1f0)],stickkerr=stickker['toString']()[_0x190aff(0x1fd)](',');''+stickkerr[0x0]===_0x190aff(0x203)?global[_0x190aff(0x26f)]='ＡＬＩＥＮ':global['packname']=stickkerr[0x0];''+stickkerr[0x1]===_0x190aff(0x203)?global['author']=_0x190aff(0x220):global[_0x190aff(0x1fe)]=stickkerr[0x1];let prosessmenuurl1=process[_0x190aff(0x22b)][_0x190aff(0x271)]===undefined?_0x190aff(0x213):process[_0x190aff(0x22b)][_0x190aff(0x271)],menuurl1=prosessmenuurl1[_0x190aff(0x274)]()['split'](',');''+menuurl1[0x0]==='nill'?global[_0x190aff(0x238)]=_0x190aff(0x225):global[_0x190aff(0x238)]=menuurl1[0x0];menuurl1[0x1]===_0x190aff(0x203)?global[_0x190aff(0x242)]='https://www.instagram.com/alienalfa/':global[_0x190aff(0x242)]=menuurl1[0x1];let prosessmenuurl2=process[_0x190aff(0x22b)][_0x190aff(0x210)]===undefined?_0x190aff(0x213):process[_0x190aff(0x22b)][_0x190aff(0x210)],menuurl2=prosessmenuurl2[_0x190aff(0x274)]()[_0x190aff(0x1fd)](',');''+menuurl2[0x0]===_0x190aff(0x203)?global[_0x190aff(0x1ea)]=_0x190aff(0x1ff):global['linkbuttid2']=menuurl2[0x0];menuurl2[0x1]===_0x190aff(0x203)?global[_0x190aff(0x272)]=_0x190aff(0x24b):global[_0x190aff(0x272)]=menuurl2[0x1];let advertextlink=process['env']['REPLY_TEXT_LINK']===undefined?'nill,nill':process[_0x190aff(0x22b)][_0x190aff(0x25b)],textlink=advertextlink[_0x190aff(0x274)]()[_0x190aff(0x1fd)](',');''+textlink[0x0]===_0x190aff(0x203)?global['linktext']=_0x190aff(0x22c):global[_0x190aff(0x1f2)]=textlink[0x0];textlink[0x1]===_0x190aff(0x203)?global[_0x190aff(0x211)]='https://youtube.com/c/alienalfa':global[_0x190aff(0x211)]=textlink[0x1];let menuimage=process[_0x190aff(0x22b)]['PROFILE_IMAGE']===undefined?_0x190aff(0x208):process[_0x190aff(0x22b)][_0x190aff(0x23e)];menuimage==='default'?global[_0x190aff(0x258)]=_0x190aff(0x25a):global[_0x190aff(0x258)]=menuimage;let urlimagexz=process[_0x190aff(0x22b)][_0x190aff(0x248)]===undefined?_0x190aff(0x208):process['env'][_0x190aff(0x248)];urlimagexz===_0x190aff(0x208)?global[_0x190aff(0x23b)]=_0x190aff(0x25a):global['mainimgurl']=urlimagexz;let mainmenubuttz=process[_0x190aff(0x22b)][_0x190aff(0x209)]===undefined?_0x190aff(0x23c):process[_0x190aff(0x22b)][_0x190aff(0x209)],menubutzz=mainmenubuttz[_0x190aff(0x1fd)](',');''+mainmenubuttz[0x0]===_0x190aff(0x203)?global[_0x190aff(0x26b)]=_0x190aff(0x270):global[_0x190aff(0x26b)]=mainmenubuttz[0x0];''+mainmenubuttz[0x1]===_0x190aff(0x203)?global[_0x190aff(0x259)]='https://youtube.com/c/alienalfa':global[_0x190aff(0x259)]=mainmenubuttz[0x1];''+mainmenubuttz[0x2]==='nill'?global[_0x190aff(0x1f9)]=null:global['mlinktxt2']=mainmenubuttz[0x2];''+mainmenubuttz[0x3]==='nill'?global['mlinkurl2']=null:global[_0x190aff(0x264)]=mainmenubuttz[0x3];''+mainmenubuttz[0x4]==='nill'?global[_0x190aff(0x27a)]=_0x190aff(0x245):global[_0x190aff(0x27a)]=mainmenubuttz[0x4];''+mainmenubuttz[0x5]===_0x190aff(0x203)?global[_0x190aff(0x26c)]=_0x190aff(0x1ec):global[_0x190aff(0x26c)]=mainmenubuttz[0x5];''+mainmenubuttz[0x6]===_0x190aff(0x203)?global['mbuttxt2']=null:global['mbuttxt2']=mainmenubuttz[0x6];''+mainmenubuttz[0x7]===_0x190aff(0x203)?global[_0x190aff(0x250)]=null:global['mbutid2']=mainmenubuttz[0x7];''+mainmenubuttz[0x8]===_0x190aff(0x203)?global[_0x190aff(0x243)]=null:global[_0x190aff(0x243)]=mainmenubuttz[0x8];''+mainmenubuttz[0x9]==='nill'?global['mbutid3']=null:global[_0x190aff(0x236)]=mainmenubuttz[0x9];function _0x4a38(){const _0x44e5a4=['prefa','split','author','ʏᴏᴜᴛᴜʙᴇ','AUTOREAD','WATERMARK','HEROKU','nill','13080abyuCK','prefixx','autodownloader','github','default','MENU_BUTTON','SESSION_ID','4F7107108B','419B9CD9DBE9','ᴡᴇʟᴄᴏᴍᴇ\x20ᴛᴏ\x20ᴛʜᴇ\x20ɢʀᴏᴜᴘ','ownermess','anticallmsg','URLBUTTON2','linkurl','ICON','nill,nill','limitawal','BETA_FUNCTIONS1','mess','1544701A60','ALIVE_IMAGE','5CE9B2C90A','chalk','F5DBD2C1CF','exports','session','WELCOME_MESS','184644BAgyKR','ＡＬＦＡ','https://www.instagram.com/alienalfa/','ᴅᴏɴᴇ','cache','HEROKU_API_KEY','ɪɴꜱᴛᴀɢʀᴀᴍ','ᴇɴᴛᴇʀ\x20ꜱᴇᴀʀᴄʜ\x20ʟɪɴᴋꜱ!','WORKTYPE','LISTICON','mail','devname','env','ꜱᴜʙꜱᴄʀɪʙᴇ\x20ᴛᴏ\x20ᴍʏ\x20ʏᴏᴜᴛᴜʙᴇ\x20ᴄʜᴀɴɴᴇʟ','C927B48B97','premium','indexfunctions','ANTICALL','ANTICALL_MSG','ZENS_API','toLowerCase','PREFIX','readFileSync','mbutid3','Update\x27','linkbuttid1','devNum','insta','mainimgurl','ʜᴏᴡ\x20ᴛᴏ\x20ᴅᴇᴘʟᴏʏ\x20ʙᴏᴛ,https://youtube.com/c/alienalfa,nill,nill,ᴀʟʟ\x20ᴄᴏᴍᴍᴀɴᴅꜱ,command,nill,nill,nill,nill','YOUTUBE','PROFILE_IMAGE','aliveimage','ʏᴏᴜʀ\x20ᴅᴀɪʟʏ\x20ʟɪᴍɪᴛ\x20ʜᴀꜱ\x20ᴇxᴘɪʀᴇᴅ,\x20ᴛʜᴇ\x20ʟɪᴍɪᴛ\x20ᴡɪʟʟ\x20ʙᴇ\x20ʀᴇꜱᴇᴛ\x20ᴇᴠᴇʀʏ\x2012\x20ʜᴏᴜʀꜱ','ＡＬＩＥＮ\x20ＡＬＦＡ','butturl1','mbuttxt3','APIs','ᴀʟʟ\x20ᴄᴏᴍᴍᴀɴᴅꜱ','447405935355','12591lmhCmN','URL_IMAGE','unwatchFile','sudo','https://youtube.com/c/alienalfa','./lib/lowdb/adapters/alfa.jpg','ᴏᴡɴᴇʀ\x20ᴄᴏᴍᴍᴀɴᴅ!','7C93A5956E','1545kXECSR','mbutid2','OWNER','extrafunctions','0,447405935355','MAIL','greetings','SUDO','FOOTER','profileimage','mlinkurl1','https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true','REPLY_TEXT_LINK','HEROKU_APP_NAME','redBright','5ce9b2c90a','contactimg','welcomeactive','LITE_MODE','herokuapp','GREETING','mlinkurl2','ᴛʜɪꜱ\x20ɪꜱ\x20ᴀ\x20ɢʀᴏᴜᴘ,\x20ᴜꜱᴇ\x20ɪᴛ\x20ɪɴ\x20ᴘʀɪᴠᴀᴛᴇ\x20ᴄʜᴀᴛ!','𝘼𝙇𝙄𝙀𝙉\x20𝘼𝙇𝙁𝘼','BYE_MESSAGE','ɢᴏᴏᴅʙʏᴇ\x20ʙᴜᴅᴅʏ','err','length','mlinktxt1','mbutid1','INSTAGRAM','ᴘʟᴇᴀꜱᴇ\x20ᴡᴀɪᴛ...','packname','ʜᴏᴡ\x20ᴛᴏ\x20ᴅᴇᴘʟᴏʏ\x20ʙᴏᴛ','URLBUTTON1','butturl2','ɪ\x20ᴡɪʟʟ\x20ᴅᴏ\x20ɪᴛ,\x20ᴍᴀᴋᴇ\x20ᴍᴇ\x20ᴀɴ\x20ᴀᴅᴍɪɴ!','toString','682278AKtVNP','CONTACT','hai','linkname','GITHUB','mbuttxt1','null','speedmode','BETA_FUNCTIONS','botname','GREETINGS','owner','0C60476A8533','1132wAFwdC','OWNER_MESS','autoread','Infinity','NAME','1947547xHjBQo','ALIVE_MESS','linkbuttid2','Hey\x20\x20👋🏻','command','worktype','1976nsFcgN','ᴛʜɪꜱ\x20ɪꜱ\x20ɴᴏᴛ\x20ᴀ\x20ɢʀᴏᴜᴘ\x20ᴄʜᴀᴛ!','STICKER_PACK','apikeyset','linktext','listicon','1273164dQugXB','AlienAlfa.YT@gmail.com','resolve','public','AUTO_DOWNLOADER','mlinktxt2','10F0975E30','BOTNAME'];_0x4a38=function(){return _0x44e5a4;};return _0x4a38();}global[_0x190aff(0x21d)]=process['env'][_0x190aff(0x20a)]===undefined?![]:process[_0x190aff(0x22b)][_0x190aff(0x20a)],global[_0x190aff(0x22e)]=[''+ownernum],global['sessionName']='session.alfa',global[_0x190aff(0x1fc)]=['','!','.','🐦','🐤','🗿'],global['sp']='𒆜',global[_0x190aff(0x22a)]=_0x190aff(0x241),global[_0x190aff(0x239)]=[_0x190aff(0x246),'919383400679'],global[_0x190aff(0x255)]=process[_0x190aff(0x22b)][_0x190aff(0x263)]===undefined?_0x190aff(0x1eb):process[_0x190aff(0x22b)][_0x190aff(0x263)],global[_0x190aff(0x1f3)]=process[_0x190aff(0x22b)][_0x190aff(0x228)]===undefined?'✩':process[_0x190aff(0x22b)][_0x190aff(0x228)],global['wm']=process[_0x190aff(0x22b)][_0x190aff(0x201)]===undefined?_0x190aff(0x241):process[_0x190aff(0x22b)][_0x190aff(0x201)],global[_0x190aff(0x27e)]=process[_0x190aff(0x22b)]['BOTNAME']===undefined?'ＡＬＩＥＮ\x20ＡＬＦＡ':process[_0x190aff(0x22b)][_0x190aff(0x1fb)],global['icon']=process[_0x190aff(0x22b)][_0x190aff(0x212)]===undefined?'✩':process[_0x190aff(0x22b)][_0x190aff(0x212)],global[_0x190aff(0x229)]=process[_0x190aff(0x22b)][_0x190aff(0x254)]===undefined?_0x190aff(0x1f5):process[_0x190aff(0x22b)][_0x190aff(0x254)],global['youtube']=process[_0x190aff(0x22b)][_0x190aff(0x23d)]===undefined?_0x190aff(0x24b):process[_0x190aff(0x22b)][_0x190aff(0x23d)],global[_0x190aff(0x207)]=process[_0x190aff(0x22b)][_0x190aff(0x279)]===undefined?'https://github.com/Alien-alfa/':process['env'][_0x190aff(0x279)],global[_0x190aff(0x23a)]=process[_0x190aff(0x22b)]['INSTAGRAM']===undefined?_0x190aff(0x221):process[_0x190aff(0x22b)][_0x190aff(0x26d)],global[_0x190aff(0x278)]=process[_0x190aff(0x22b)][_0x190aff(0x1e7)]===undefined?_0x190aff(0x266):process[_0x190aff(0x22b)][_0x190aff(0x1e7)],global['mainfooter']=process[_0x190aff(0x22b)][_0x190aff(0x257)]===undefined?_0x190aff(0x266):process[_0x190aff(0x22b)]['FOOTER'],global['herokuapi']=process[_0x190aff(0x22b)]['HEROKU_API_KEY']===undefined?'':process[_0x190aff(0x22b)][_0x190aff(0x224)],global[_0x190aff(0x262)]=process[_0x190aff(0x22b)][_0x190aff(0x25c)]===undefined?'':process[_0x190aff(0x22b)][_0x190aff(0x25c)],global[_0x190aff(0x277)]=process['env'][_0x190aff(0x21e)]===undefined?_0x190aff(0x20d):process[_0x190aff(0x22b)]['WELCOME_MESS'],global['bye']=process[_0x190aff(0x22b)]['BYE_MESS']===undefined?_0x190aff(0x268):process[_0x190aff(0x22b)][_0x190aff(0x267)],global[_0x190aff(0x25f)]=process[_0x190aff(0x22b)][_0x190aff(0x276)]===undefined?!![]:process[_0x190aff(0x22b)]['CONTACT'],global[_0x190aff(0x260)]=process[_0x190aff(0x22b)][_0x190aff(0x27f)]===undefined?![]:process[_0x190aff(0x22b)][_0x190aff(0x27f)],global[_0x190aff(0x22f)]=process[_0x190aff(0x22b)][_0x190aff(0x215)]===undefined?![]:process['env']['BETA_FUNCTIONS1'],global[_0x190aff(0x20f)]=process[_0x190aff(0x22b)][_0x190aff(0x231)],global['alivemess']=process[_0x190aff(0x22b)][_0x190aff(0x1e9)]===undefined?_0x190aff(0x27b):process[_0x190aff(0x22b)][_0x190aff(0x1e9)],global[_0x190aff(0x23f)]=process['env']['ALIVE_IMAGE']===undefined?![]:process['env'][_0x190aff(0x218)],global[_0x190aff(0x27c)]=process[_0x190aff(0x22b)][_0x190aff(0x261)]===undefined?!![]:process[_0x190aff(0x22b)][_0x190aff(0x261)],global[_0x190aff(0x206)]=process[_0x190aff(0x22b)][_0x190aff(0x1f8)]===undefined?![]:process[_0x190aff(0x22b)][_0x190aff(0x1f8)],global[_0x190aff(0x252)]=process['env']['BETA_FUNCTIONS']===undefined?![]:process[_0x190aff(0x22b)][_0x190aff(0x27d)],global[_0x190aff(0x20e)]=process[_0x190aff(0x22b)][_0x190aff(0x283)]===undefined?'ʜᴇʏ\x20ᴛʜɪꜱ\x20ɪꜱ\x20ᴍʏ\x20ᴏᴡɴᴇʀ,\x20ᴘʟᴇᴀꜱᴇ\x20ᴛᴀʟᴋ\x20ɪɴ\x20ᴇɴɢʟɪꜱʜ':process['env'][_0x190aff(0x283)],global[_0x190aff(0x205)]=process[_0x190aff(0x22b)]['PREFIX']===undefined?'':process[_0x190aff(0x22b)][_0x190aff(0x234)],global[_0x190aff(0x284)]=process['env'][_0x190aff(0x200)]===undefined?![]:process[_0x190aff(0x22b)][_0x190aff(0x200)],global['anticall']=process[_0x190aff(0x22b)][_0x190aff(0x230)]===undefined?![]:process[_0x190aff(0x22b)][_0x190aff(0x230)],module[_0x190aff(0x21c)]={'HEROKU':process[_0x190aff(0x22b)]['HEROKU']===undefined?![]:convertToBool(process['env'][_0x190aff(0x202)])},global['thumb']=fs[_0x190aff(0x235)](_0x190aff(0x24c)),global[_0x190aff(0x216)]={'success':_0x190aff(0x222),'errr':_0x190aff(0x269),'admin':'ᴏɴʟʏ\x20ᴀᴅᴍɪɴ','botAdmin':_0x190aff(0x273),'owner':_0x190aff(0x24d),'group':_0x190aff(0x1ef),'private':_0x190aff(0x265),'bot':'','wait':_0x190aff(0x26e),'endLimit':_0x190aff(0x240),'notext':_0x190aff(0x226)},global[_0x190aff(0x214)]={'premium':_0x190aff(0x1e6),'free':0x64};let file=require[_0x190aff(0x1f6)](__filename);fs['watchFile'](file,()=>{const _0x5cf639=_0x190aff;fs[_0x5cf639(0x249)](file),console['log'](chalk[_0x5cf639(0x25d)](_0x5cf639(0x237)+__filename+'\x27')),delete require[_0x5cf639(0x223)][file],require(file);});
+
+
+const fs = require('fs')
+const chalk = require('chalk')
+
+
+var ownernum = ['0','447405935355']
+//-------------
+
+
+// Website Api
+global.APIs = {
+	zenz: 'https://zenzapis.xyz',
+	devil: 'https://api-toxic-devil.herokuapp.com/api',
+} 
+ 
+global.APIKeys = {
+	'https://zenzapis.xyz': '' }
+    
+
+
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+
+   //---------------------------------------------------------------------
+
+   global.worktype = 'private'
+
+   //---------------------------------------------------------------------
+   
+   
+   //---------------------------------------------------------------------
+
+   global.sudo = ['447405935355']
+   //-------------
+   global.owner = ['447405935355']
+
+   //---------------------------------------------------------------------
+   
+   global.packname = 'ＡＬＩＥＮ' 
+   //-------------
+   global.author = 'ＡＬＦＡ'
+
+   //---------------------------------------------------------------------
+
+
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+
+   //--------------------- MENU URL BUTTON 1 ------------------------
+
+   global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
+   //-------------
+   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   
+   //---------------------------------------------------------------------
+
+
+
+   //--------------------- MENU URL BUTTON 2 ------------------------
+
+   global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
+   //-------------
+   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   
+   //---------------------------------------------------------------------
+
+
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+
+   //--------------------- ADPLAY OPTIONS ------------------------
+
+   global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
+   //-------------
+   global.linkurl = 'https://youtube.com/c/alienalfa'
+   
+   //---------------------------------------------------------------------
+
+
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+
+   //--------------------- MAIN IMAGE  ------------------------
+
+   global.profileimage = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+      
+   //---------------------------------------------------------------------
+
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+   //--------------------- URL IMAGE  ------------------------
+
+   global.mainimgurl = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+      
+   //---------------------------------------------------------------------
+
+
+
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+
+   //--------------------- MAIN MENU BUTTON ------------------------
+   
+   global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
+   //-------------
+   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   //------------- 
+   
+ //------ URL BUTTON 2 -----
+   global.mlinktxt2 = null
+   //-------------
+   global.mlinkurl2 = null
+   //-------------
+ 
+ //------ REP BUTTON 1 -----
+   global.mbuttxt1 = 'ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ'
+   //-------------
+   global.mbutid1 = 'command'
+   //-------------
+   
+ //------ REP BUTTON 2 -----
+   global.mbuttxt2 = null 
+   //-------------
+   global.mbutid2 = null
+   //-------------
+   
+ //------ REP BUTTON 3 -----
+   global.mbuttxt3 = null
+   //-------------
+   global.mbutid3 = null
+   //-------------
+   
+   //---------------------------------------------------------
+   
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+
+//============ MAIN ============//
+
+//-------------
+global.premium = [`${ownernum}`]
+//-------------
+global.sessionName = 'session.alfa'
+//-------------
+global.prefa = ['','!','.','🐦','🐤','🗿']
+//-------------
+global.sp = '𒆜'
+//-------------
+global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+//-------------
+global.devNum = ['447405935355']
+//-------------
+global.greetings = 'Hey  👋🏻'
+//-------------
+global.listicon = '✩' 
+//-------------
+global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+//-------------
+global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+//-------------
+global.icon = '✩' 
+//-------------
+global.mail = 'AlienAlfa.YT@gmail.com'
+//-------------
+global.youtube = 'https://youtube.com/c/alienalfa'
+//-------------
+global.github = 'https://github.com/Alien-alfa/' 
+//-------------
+global.insta = 'https://www.instagram.com/alienalfa/' 
+//-------------
+global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+//-------------
+global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+//-------------
+global.herokuapi = '' 
+//-------------
+global.herokuapp = '' 
+
+
+//|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
+
+
+//============ Modz ============//
+
+//-------------
+global.welcomeactive =  true
+//-------------
+global.alivemess = false
+//-------------
+global.aliveimage = false
+//-------------
+global.speedmode =  'active'
+//-------------
+global.ownermess = 'ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ'
+//-------------
+global.autoread = false 
+//-------------
+global.anticall = false 
+//-------------
+
+
+
+
+
+global.thumb = fs.readFileSync('./lib/lowdb/adapters/alfa.jpg')
+
+global.mess = {
+    success: 'ᴅᴏɴᴇ',
+    errr: 'err',
+    admin: 'ᴏɴʟʏ ᴀᴅᴍɪɴ',
+    botAdmin: 'ɪ ᴡɪʟʟ ᴅᴏ ɪᴛ, ᴍᴀᴋᴇ ᴍᴇ ᴀɴ ᴀᴅᴍɪɴ!',
+    owner: 'ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅ!',
+    group: 'ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ!',
+    private: 'ᴛʜɪꜱ ɪꜱ ᴀ ɢʀᴏᴜᴘ, ᴜꜱᴇ ɪᴛ ɪɴ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ!',
+    bot: '',
+    wait: 'ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ...',
+    endLimit: 'ʏᴏᴜʀ ᴅᴀɪʟʏ ʟɪᴍɪᴛ ʜᴀꜱ ᴇxᴘɪʀᴇᴅ, ᴛʜᴇ ʟɪᴍɪᴛ ᴡɪʟʟ ʙᴇ ʀᴇꜱᴇᴛ ᴇᴠᴇʀʏ 12 ʜᴏᴜʀꜱ',
+    notext: 'ᴇɴᴛᴇʀ ꜱᴇᴀʀᴄʜ ʟɪɴᴋꜱ!',
+}
+global.limitawal = {
+    premium: "Infinity",
+    free: 100
+}
+
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+	fs.unwatchFile(file)
+	console.log(chalk.redBright(`Update'${__filename}'`))
+	delete require.cache[file]
+	require(file)
+})

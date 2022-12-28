@@ -1,4 +1,17 @@
 {
+  "users": {},
+  "chats": {},
+  "sticker": {},
+  "database": {},
+  "game": {
+    "math": [],
+    "lontong": [],
+    "lontong_desk": []
+  },
+  "settings": {},
+  "others": {
+    "vote": []
+  },
   "data": {
     "users": {
       "359889999996@s.whatsapp.net": {
@@ -10,6 +23,16 @@
         "afkTime": -1,
         "afkReason": "",
         "limit": "Infinity"
+      },
+      "919383400679@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": "Infinity"
+      },
+      "916235888499@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 100
       }
     },
     "chats": {
@@ -22,6 +45,18 @@
         "mute": false,
         "wame": false,
         "antilink": false
+      },
+      "919383400679@s.whatsapp.net": {
+        "mute": false,
+        "wame": false,
+        "antilink": false,
+        "greetings": false
+      },
+      "120363025961632795@g.us": {
+        "mute": false,
+        "wame": false,
+        "antilink": false,
+        "greetings": false
       }
     },
     "sticker": {},

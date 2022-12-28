@@ -471,8 +471,11 @@ templateButtons: [
         })
         return status
     }
-    if (worktype === 'public') { AlienAlfa.public = true }
-    else { AlienAlfa.public = false }
+    if (worktype = 'public')
+     AlienAlfa.public = true
+    else 
+    AlienAlfa.public = false
+
 
 
 
