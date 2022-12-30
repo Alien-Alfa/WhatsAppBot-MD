@@ -1005,7 +1005,7 @@ ${arr.slice(6).join('')}
 	   {
 		       teks = `>>>>>>>*ᴀʟɪᴇɴ-ᴀʟꜰᴀ-ʙᴏᴛ*<<<<<<<\n\n        ᴜꜱᴇ *.ᴅᴏɴᴀᴛᴇ* ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ`
 		       
-		       let buffimg = await (await fetch(`${mainimgurl}`)).buffer()
+		       let buffimg = await (await fetch(`https://avatars.githubusercontent.com/u/64305844?v=4`)).buffer()
 				
 		alienalfa.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `>>>𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚<<<`,"body": `>ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ<`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": buffimg,"sourceUrl": "https://github.com/Alien-Alfa/WhatsAppBot-MD"}}}, { quoted: m})
 	   }
@@ -1137,7 +1137,7 @@ ${arr.slice(6).join('')}
                 if (!isAdmins) throw mess.admin
 		let users = m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
 		
-		let buffimg = await (await fetch(`${mainimgurl}`)).buffer()            
+		let buffimg = await (await fetch(`https://avatars.githubusercontent.com/u/64305844?v=4`)).buffer()            
         
 		await alienalfa.groupParticipantsUpdate(m.chat, [users], 'add').then((res) => alfasuccess('ɴᴜᴍʙᴇʀ ᴀᴅᴅᴇᴅ')).catch((err) => alfaerr('𝘏𝘮𝘮.. 𝘪𝘵 𝘭𝘰𝘰𝘬𝘴 𝘭𝘪𝘬𝘦 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘢 𝘞𝘳𝘰𝘯𝘨 𝘕𝘶𝘮𝘣𝘦𝘳 𝘖𝘳 𝘐𝘯𝘷𝘢𝘭𝘪𝘥 𝘯𝘶𝘮𝘣𝘦𝘳'))
 	}
@@ -1558,7 +1558,7 @@ ${arr.slice(6).join('')}
             case 'bcalll': {
                 if (!isCreator) throw mess.admin
 				if (!m.quoted) throw`*${alfaNAME}*\n\n*Reply to a Message*`
-		       let buffimg = await (await fetch(`${mainimgurl}`)).buffer()
+		       let buffimg = await (await fetch(`https://avatars.githubusercontent.com/u/64305844?v=4`)).buffer()
 					let buff1 = fs.readFileSync('./lib/lowdb/adapters/alfa.jpg')
 					let buff2 = fs.readFileSync('./lib/lowdb/adapters/alfa.jpg')
 					let options = {}
@@ -2029,7 +2029,7 @@ ${icon} ᴜʀʟ : ${anu.url}`,
                 try {
                 let quality = args[1] ? args[1] : '128kbps'
                 let media = await yta(text, quality)
-		       let buffimg = await (await fetch(`${mainimgurl}`)).buffer()
+		       let buffimg = await (await fetch(`https://avatars.githubusercontent.com/u/64305844?v=4`)).buffer()
                 if (media.filesize >= 100000) return m.reply('File Over Limit \n\n\n '+util.format(media))
                 let infox = `${icon} ꜰɪʟᴇꜱɪᴢᴇ: ${media.filesizeF}`
                 let tempimg = await (await fetch(`${profileimage}`)).buffer()
@@ -3051,7 +3051,7 @@ View list of Messages With ${prefix}listmsg`)
             case 'ping': case 'botstatus': case 'statusbot': case 'atst': {
 				
 
-                let buffimg = await (await fetch(`${mainimgurl}`)).buffer()
+                let buffimg = await (await fetch(`https://avatars.githubusercontent.com/u/64305844?v=4`)).buffer()
                 const used = process.memoryUsage()
                 let timestamp = speed()
                 let latensi = speed() - timestamp
@@ -3069,7 +3069,7 @@ alienalfa.sendMessage(m.chat, { text: respon, contextInfo:{"externalAdReply": {"
                         case 'ping2': {
 				
                 const used = process.memoryUsage()
-                let buffimg = await (await fetch(`${mainimgurl}`)).buffer()
+                let buffimg = await (await fetch(`https://avatars.githubusercontent.com/u/64305844?v=4`)).buffer()
 
                 let timestamp = speed()
                 let latensi = speed() - timestamp
@@ -4313,7 +4313,7 @@ let tempimg = await (await fetch(`${profileimage}`)).buffer()
 
 		            case 'alive': {
                 const used = process.memoryUsage()
-                let buffimg = await (await fetch(`${mainimgurl}`)).buffer()
+                let buffimg = await (await fetch(`https://avatars.githubusercontent.com/u/64305844?v=4`)).buffer()
 
                 let timestamp = speed()
                 let latensi = speed() - timestamp
