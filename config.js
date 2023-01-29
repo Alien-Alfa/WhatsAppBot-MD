@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','827939077']
 //-------------
 
 
@@ -77,9 +77,9 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['827949077']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['827939077']
 
    //---------------------------------------------------------------------
    
@@ -185,7 +185,7 @@ global.APIKeys = {
 //============ MAIN ============//
 
 //-------------
-global.premium = [`${ownernum}`]
+global.premium = [`${LIMIT }`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
@@ -195,7 +195,7 @@ global.sp = '𒆜'
 //-------------
 global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['0827939077']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
