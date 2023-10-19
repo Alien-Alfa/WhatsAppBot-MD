@@ -16,7 +16,7 @@
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
 	"AUTOREAD": {
             "description": "Autoread active or off",
